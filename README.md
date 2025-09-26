@@ -1,7 +1,7 @@
-Simple Calculator 
+<b>Simple Calculator</b><br>
 A clean, simple, and responsive calculator built using HTML, CSS, and vanilla JavaScript.
 
-Description:-
+<b>Description:-</b>
 This project is a straightforward calculator that performs basic arithmetic operations. It was created as a practice project to demonstrate fundamental web development skills, including DOM manipulation, event handling, and basic styling with CSS.
 
 Features:-
